@@ -18,6 +18,7 @@ This is a simple game implemented in Java that is playable directly from console
 <br>
 -Input manipulation using <code>Scanner</code> class
 <br>
+<br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt ="Java">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt ="Status">
 </p>
