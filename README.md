@@ -18,7 +18,7 @@ This is a simple game impelemented in Java that is playable directly from consol
 <br>
 -Input manipulation using 'Scanner' class
 <br>
-<img src=" https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt ="Java">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt ="Java">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt ="Status">
 </p>
 <h2 style = "font: 1.5em; font-weight: bold;">
