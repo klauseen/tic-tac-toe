@@ -8,15 +8,15 @@
 📝 Description
 </h2>
 <p>
-This is a simple game impelemented in Java that is playable directly from console. The project demonstrates the skills to work with fundamental conceptions of programming like:
+This is a simple game implemented in Java that is playable directly from console. The project demonstrates the skills to work with fundamental concepts of programming like:
 <br>
 -Bidimensional matrix;
 <br>
--Data stucture ('ArrayList' , 'Array.asList' ) for chasing player positions;
+-Data stuctures (<code>ArrayList</code> , <code>Array.asList</code> ) for tracking player positions;
 <br>
--Algorithms for verification win conditions;
+-Win condition algotithms;
 <br>
--Input manipulation using 'Scanner' class
+-Input manipulation using <code>Scanner</code> class
 <br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt ="Java">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt ="Status">
@@ -33,3 +33,4 @@ Table is numbered like this:
      4 | 5 | 6 
     ---+---+---
      7 | 8 | 9 
+</p>
