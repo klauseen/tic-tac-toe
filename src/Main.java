@@ -141,7 +141,7 @@ public class Main {
                 System.out.println("Congratulations, Player1 has won the game!!!");
                 return false;
             } else if (player2position.containsAll(list)) {
-                System.out.println("Congratulations, Player1 has won the game!!!");
+                System.out.println("Congratulations, Player2 has won the game!!!");
                 return false;
             } else if (player1position.size() + player2position.size() == 9) {
                 System.out.println("This is a Draw");
